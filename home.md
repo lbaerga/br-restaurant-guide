@@ -4,5 +4,3 @@
 What kind of food are you hungry for?
 ## [American](american/american.md)
 ## Asian
-![](dormpic1.jpg)
-Try this link
